@@ -14,7 +14,6 @@ C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\n
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Hurmamusic.TagHelpers.output.cache
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Hurmamusic.RazorCoreGenerate.cache
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -28,3 +27,4 @@ C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\n
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Hurmamusic.pdb
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Hurmamusic.csproj.CopyComplete
 C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Hurmamusic.csprojAssemblyReference.cache
+C:\Users\a.miroshkin\source\repos\hurmamusic\Hurmamusic\Hurmamusic\obj\Release\netcoreapp2.2\Razor\Views\Home\Contacts.g.cshtml.cs
