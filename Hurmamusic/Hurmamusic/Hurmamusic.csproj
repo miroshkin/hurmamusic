@@ -17,4 +17,11 @@
     <Folder Include="wwwroot\sounds\" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Content Update="wwwroot\web.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
