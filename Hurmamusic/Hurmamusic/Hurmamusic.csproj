@@ -19,7 +19,7 @@
 
 
   <ItemGroup>
-    <Content Update="wwwroot\web.config">
+    <Content Update="web.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
